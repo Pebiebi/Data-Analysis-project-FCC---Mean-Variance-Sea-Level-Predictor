@@ -23,7 +23,7 @@ Below is a description of the generated outputs:
 - **Line of best fit**: Two lines predicting sea level rise:
   - Using the entire dataset (1880–present).
   - Using data from the year 2000 onward.
-- **Saved plot**: The resulting plot is saved as `sea_level_rise.png`.
+- **Saved plot**: The resulting plot is saved as `sea_level_plot.png`.
 
 ---
 
