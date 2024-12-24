@@ -36,4 +36,4 @@ This repository is licensed under the MIT License. Feel free to use and modify t
 ---
 
 ## Acknowledgements
-Special thanks to the learning resources and mentors who guided this project, as well as the E
+Special thanks to my learning platform and mentors for guiding me through these projects.
