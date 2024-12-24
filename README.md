@@ -73,7 +73,7 @@ In this project, historical sea level data from 1880 to the present was analyzed
 ### Example Outputs
 Below is the generated plot visualizing the sea level predictions:
 
-![Sea Level Rise](sea_level_rise.png)
+![Sea Level Plot](sea_level_plot.png)
 
 - **Scatter plot**: Displays the relationship between the year and the sea level change.
 - **Line of best fit**: Two lines predicting sea level rise:
